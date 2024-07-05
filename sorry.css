@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+}
+
+div{
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+    width: 15rem;
+    
+    border-radius: 1px;
+    border-color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    font-size: 19px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a{
+    font-size: 19px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

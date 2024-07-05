@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(22, 22, 26);
+}
+
+.main{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-size: 35px;
+    color: white;
+}
+
+.ist{
+    padding: 3rem;
+    font-size: 19px;
+    color: white;
+}
+
+.fr{
+
+    font-size: 19px;
+    color: white;
+}
+
+.cont{
+    padding: 2.5rem;
+    font-size: 19px;
+    color: white; 
+}
